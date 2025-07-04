@@ -1,0 +1,16 @@
+[project]
+name = "save_image_sdli"
+description = "This node splits its self-attention Q to focus on nearby samples."
+version = "1.0.0"
+license = { text = "MIT License" }
+classifiers = [
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Repository = "https://github.com/MitoshiroPJ/ComfyUI_save_image_sdli"
+
+[tool.comfy]
+PublisherId = "mtsr"
+DisplayName = "ComfyUI SaveImage SDLI"
+Icon = ""
